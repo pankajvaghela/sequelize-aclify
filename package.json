@@ -1,0 +1,24 @@
+{
+  "name": "sequelize-acl",
+  "version": "0.1.0",
+  "description": "An ACL library for Sequelize.js",
+  "keywords": [
+    "acl",
+    "web",
+    "sequelize"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankajvaghela/sequelize-acl.git"
+  },
+  "author": "Pankaj Vaghela <vpankaj1998official@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pankajvaghela/sequelize-acl/issues"
+  },
+  "homepage": "https://github.com/pankajvaghela/sequelize-acl#readme"
+}
