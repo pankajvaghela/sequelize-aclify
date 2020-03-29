@@ -13,7 +13,8 @@
   },
   "main": "index.js",
   "scripts": {
-    "test": "mocha --reporter spec"
+    "test": "mocha --reporter spec",
+    "cover": "istanbul cover -- _mocha test/test.js --reporter spec"
   },
   "repository": {
     "type": "git",
@@ -27,6 +28,8 @@
   "homepage": "https://github.com/pankajvaghela/sequelize-aclify#readme",
   "devDependencies": {
     "chai": "^4.2.0",
+    "coveralls": "^3.0.11",
+    "istanbul": "^0.4.5",
     "mocha": "^7.1.1"
   }
 }
