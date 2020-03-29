@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/pankajvaghela/sequelize-acl.svg?branch=master)](https://travis-ci.com/pankajvaghela/sequelize-acl)
+[![Coverage Status](https://coveralls.io/repos/github/pankajvaghela/sequelize-aclify/badge.svg?branch=master)](https://coveralls.io/github/pankajvaghela/sequelize-aclify?branch=master)
 # sequelize-aclify
 =========
 An ACL library for Sequelize.js 
